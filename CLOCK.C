@@ -4,7 +4,7 @@
 int main()
 {
 int h,m,s;
-printf("Enter current time(seperate hour,min,sec by enter\n");
+printf("Enter current time(seperate hour,min,sec by enter)\n");
 scanf("%d%d%d",&h,&m,&s);
 start: ;
 for(;h<24;h++)
